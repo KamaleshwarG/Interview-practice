@@ -1,4 +1,4 @@
-###Caterpillar Coding Questions (Consolidated)
+Caterpillar Coding Questions (Consolidated)
 
 -----------------------------------------------------------
 
